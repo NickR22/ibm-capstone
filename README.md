@@ -1,4 +1,4 @@
-# ibm-capstone
+# Falcon 9 Landing Prediction - IBM Capstone Project
 
 Welcome to the readme file for my capstone project on SpaceX, developed as part of the IBM Data Science Professional Certificate.
 
